@@ -7,7 +7,9 @@ h1 {
 }
 
 p {
-    text-align: center 
-
+    text-align: center;
 }
- em strong {
+
+em strong {
+     color: #FF0000;
+}
